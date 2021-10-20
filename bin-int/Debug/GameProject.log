@@ -1,0 +1,13 @@
+﻿  Source.c
+C:\Users\mfth7\OneDrive\Masaüstü\GameProject\Source.c(156,1): warning C4244: 'başlatılıyor': 'double' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\mfth7\OneDrive\Masaüstü\GameProject\Source.c(157,1): warning C4244: 'başlatılıyor': 'double' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\mfth7\OneDrive\Masaüstü\GameProject\Source.c(182,54): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\mfth7\OneDrive\Masaüstü\GameProject\Source.c(182,80): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\mfth7\OneDrive\Masaüstü\GameProject\Source.c(201,18): warning C4244: 'işlev': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\mfth7\OneDrive\Masaüstü\GameProject\Source.c(270,1): warning C4244: 'başlatılıyor': 'double' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\mfth7\OneDrive\Masaüstü\GameProject\Source.c(651,1): warning C4244: 'başlatılıyor': 'double' - 'unsigned char' dönüşümü; veri kaybı olabilir
+C:\Users\mfth7\OneDrive\Masaüstü\GameProject\Source.c(668,1): warning C4244: 'başlatılıyor': 'double' - 'unsigned char' dönüşümü; veri kaybı olabilir
+C:\Users\mfth7\OneDrive\Masaüstü\GameProject\Source.c(689,1): warning C4244: 'başlatılıyor': 'double' - 'unsigned char' dönüşümü; veri kaybı olabilir
+C:\Users\mfth7\OneDrive\Masaüstü\GameProject\Source.c(706,1): warning C4244: 'başlatılıyor': 'double' - 'unsigned char' dönüşümü; veri kaybı olabilir
+C:\Users\mfth7\OneDrive\Masaüstü\GameProject\Source.c(171): warning C4715: 'CollideTopwithTexture': tüm denetim yolları değer döndürmez
+  GameProject.vcxproj -> C:\Users\mfth7\OneDrive\Masaüstü\GameProject\bin\Debug\GameProject.exe
